@@ -1,0 +1,75 @@
+body{
+margin: 0;
+bottom: 0%;
+font-family: "Roboto";
+}
+
+h1.main{
+    text-align: center;
+    font-size: 65px;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(65, 183, 251) ;
+    margin: 0;
+    width: 100%;
+    height: auto;
+    padding: 5% 0px;
+}
+#logo
+{
+    width: 70%;
+    display: block;
+    margin: auto;
+    
+}
+.galeria img{
+
+    width: 20%;
+    height: 20%;
+    justify-content: space-between;
+}
+
+table {
+    margin: auto;
+    background-color: rgb(197, 197, 197);
+}
+footer.home{
+    text-align: center;
+    background-color: rgb(65, 183, 251);
+    margin: auto;
+}
+footer.home li{
+    padding: 15px 0px;
+    list-style: none;
+    text-decoration: none;
+}
+footer.home li a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    margin: 3%;
+}
+
+div.contacto ul {
+    padding: 0;
+    margin: 0;
+}
+
+div.contacto li{
+    padding-top: 30px;
+    list-style: none;
+    text-align: center;
+}
+div.contacto li a {
+    text-decoration: none;
+}
+h1.nosotros{
+    text-align: center;
+}
+p.uno{
+padding: 0% 1%;
+font-size: 120%;
+}
+footer.volver {
+    padding: 5% 1%;
+}
